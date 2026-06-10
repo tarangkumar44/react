@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.card {
+  background-color: pink;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
